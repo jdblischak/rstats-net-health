@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Adapted from Blog template at
+     https://www.w3schools.com/bootstrap/bootstrap_templates.asp
+-->
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <title>R net health</title>
+  <style>
+    /* Set height of the grid so .sidenav can be 100% (adjust if needed) */
+      .row.content {
+        height: 1500px;
+      }
+
+      /* Set gray background color and 100% height */
+      .sidenav {
+        background-color: #f1f1f1;
+        height: 100%;
+      }
+
+      /* Set black background color, white text and some padding */
+      footer {
+        background-color: #555;
+        color: white;
+        padding: 15px;
+      }
+
+      /* On small screens, set height to 'auto' for sidenav and grid */
+      @media screen and (max-width: 767px) {
+        .sidenav {
+          height: auto;
+          padding: 15px;
+        }
+        .row.content {height: auto;}
+      }
+    </style>
+</head>
+
+<body>
+
+  <div class="container-fluid">
+    <div class="row content">
+      <div class="col-sm-3 sidenav">
+        <h4>Options</h4>
+        <form>
+          <input type="checkbox" checked>GitHub<br>
+          <input type="checkbox"> Bitbucket<br>
+          <input type="checkbox"> GitLab<br>
+          <input type="checkbox" checked> Travis<br>
+          <input type="checkbox"> AppVeyor<br>
+          <input type="submit" value="Submit">
+        </form>
+      </div>
+
+      <div class="col-sm-9">
+        <h1>R net health</h1>
+        <div class="panel-group">
+          <div class="panel panel-success">
+            <div class="panel-heading">
+              <h4 class="panel-title">
+                <a data-toggle="collapse" href="#github-status">
+                  <span class="glyphicon glyphicon-collapse-down"></span>
+                  GitHub Status</a>
+              </h4>
+            </div>
+            <div id="github-status" class="panel-collapse collapse">
+              <div class="panel-body">
+                <blockquote class="twitter-tweet" data-lang="en">
+                  <p lang="en" dir="ltr">Everything operating normally.</p>&mdash;
+                  GitHub Status (@githubstatus) <a href="https://twitter.com/githubstatus/status/1054508689560870912?ref_src=twsrc%5Etfw">October
+                    22, 2018</a>
+                </blockquote>
+                <script async src="https://platform.twitter.com/widgets.js"
+                  charset="utf-8"></script>
+              </div>
+            </div>
+          </div>
+          <div class="panel panel-success">
+            <div class="panel-heading">
+              <h4 class="panel-title">
+                <a data-toggle="collapse" href="#travis-status">
+                  <span class="glyphicon glyphicon-collapse-down"></span>
+                  Travis CI Status</a>
+              </h4>
+            </div>
+            <div id="travis-status" class="panel-collapse collapse">
+              <div class="panel-body">
+                <blockquote class="twitter-tweet" data-conversation="none"
+                  data-lang="en">
+                  <p lang="en" dir="ltr">[status] Resolved: Builds are
+                    processing normally. The queue for container based builds
+                    has cleared. We will continue to monitor the situation. We
+                    apologize for the delays in picking up your builds, and
+                    thank you for your patience. <a href="https://t.co/o8eAUrz5Ck">https://t.co/o8eAUrz5Ck</a></p>&mdash;
+                  Travis CI Status (@traviscistatus) <a href="https://twitter.com/traviscistatus/status/1056518011371249664?ref_src=twsrc%5Etfw">October
+                    28, 2018</a>
+                </blockquote>
+                <script async src="https://platform.twitter.com/widgets.js"
+                  charset="utf-8"></script>
+              </div>
+            </div>
+          </div>
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="container-fluid">
+    <p class="text-center">Footer</p>
+  </footer>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</body>
+
+</html>
