@@ -1,0 +1,201 @@
+"","text","user_id","screen_name","description","created_at"
+"1","We have concluded the GitHub Services webhook delivery brownout. All systems are operating normally.","785764172","githubstatus","",2018-11-08 04:05:28
+"2","As part of the deprecation process of the GitHub Services feature, we have commenced the final brownout of services webhook deliveries. All other systems are operating normally. More information can be found in ","785764172","githubstatus","",2018-11-08 02:03:58
+"3","We have now resumed GitHub Services webhook deliveries. All other systems are operating normally.","785764172","githubstatus","",2018-11-07 22:09:06
+"4","We have commenced the GitHub Services webhook brownout. All other systems are operating normally. More information can be found in ","785764172","githubstatus","",2018-11-07 20:04:18
+"5","We are resuming GitHub Services webhook deliveries. All other systems are operating normally.","785764172","githubstatus","",2018-11-07 14:35:38
+"6","We have commenced the GitHub Services brownout. All other systems are operating normally. More information can be found in ","785764172","githubstatus","",2018-11-07 12:38:01
+"7","Everything operating normally.","785764172","githubstatus","",2018-11-07 06:23:40
+"8","We've identified the issue causing delays in updates to ","785764172","githubstatus","",2018-11-07 06:07:01
+"9","We're investigating delays in updates to ","785764172","githubstatus","",2018-11-07 05:58:03
+"10","We are investigating reports of elevated error rates.","785764172","githubstatus","",2018-11-07 05:50:44
+"11","Everything operating normally.","785764172","githubstatus","",2018-11-02 21:25:17
+"12","We continue to process notifications and monitor progress against the backlog.","785764172","githubstatus","",2018-11-02 20:43:37
+"13","We're continuing to process notifications and monitor the backlog.","785764172","githubstatus","",2018-11-02 20:07:01
+"14","We're continuing to process notifications and are monitoring the backlog.","785764172","githubstatus","",2018-11-02 19:34:13
+"15","Deployment status jobs have been processed. We're continuing to handle a backlog of notifications and are monitoring as they are delivered.","785764172","githubstatus","",2018-11-02 18:50:32
+"16","We're continuing to process background jobs. Notifications and deployment statuses may be delayed during this time.","785764172","githubstatus","",2018-11-02 18:18:30
+"17","","785764172","githubstatus","",2018-11-02 17:48:26
+"18","A fix has been deployed to address exceptions. We're continuing to monitor as the site recovers.","785764172","githubstatus","",2018-11-02 17:29:28
+"19","","785764172","githubstatus","",2018-11-02 16:43:54
+"20","We are investigating reports of elevated error rates.","785764172","githubstatus","",2018-11-02 16:39:09
+"21","All GitHub services are back to normal as of Monday (October 22) at 23:00 UTC. We’ve posted an update at ","785764172","githubstatus","",2018-10-22 23:44:50
+"22","Everything operating normally.","785764172","githubstatus","",2018-10-22 23:03:58
+"23","Webhook deliveries have caught up, and we continue working through the backlogs for Pages builds as the site recovers.","785764172","githubstatus","",2018-10-22 22:23:07
+"24","We continue working through the backlogs for Pages builds and webhook deliveries, and are monitoring as the site recovers.","785764172","githubstatus","",2018-10-22 21:46:24
+"25","We continue working through the backlogs for Pages builds and webhook deliveries. We are monitoring as the site recovers.","785764172","githubstatus","",2018-10-22 21:11:49
+"26","We continue to work through the backlogs for Pages builds and webhook deliveries. We are monitoring as the site recovers.","785764172","githubstatus","",2018-10-22 20:37:25
+"27","We continue working through the backlogs for Pages builds and webhook deliveries, and we are monitoring as the site recovers.","785764172","githubstatus","",2018-10-22 20:03:52
+"28","We continue to work through the backlogs for Pages builds and webhook deliveries, and are monitoring as the site recovers.","785764172","githubstatus","",2018-10-22 19:32:50
+"29","We are working through the backlogs of webhook deliveries and Pages builds. We continue to monitor as the site recovers.","785764172","githubstatus","",2018-10-22 18:40:20
+"30","We have resumed webhook delivery and will continue to monitor as we process the backlog of events.","785764172","githubstatus","",2018-10-22 18:26:41
+"31","Webhook delivery remains paused while we work through an issue. We are currently deploying a fix, and expect to resume delivery soon.","785764172","githubstatus","",2018-10-22 18:09:34
+"32","We have temporarily paused delivery of webhooks while we address an issue. We are working to resume delivery as soon as possible.","785764172","githubstatus","",2018-10-22 17:32:56
+"33","We have resumed Pages builds and will continue to monitor as we process a delayed backlog of events.","785764172","githubstatus","",2018-10-22 16:51:27
+"34","We have resumed delivery of webhooks and will continue to monitor as we process a delayed backlog of events.","785764172","githubstatus","",2018-10-22 16:45:19
+"35","We've completed validation of data consistency and have enabled some background j... See more at ","785764172","githubstatus","",2018-10-22 16:24:02
+"36","Background jobs remain paused as we near completion of validation of data consistency.","785764172","githubstatus","",2018-10-22 15:09:48
+"37","We are validating the consistency of information across all data stores. Webhooks and Pages builds remain paused.","785764172","githubstatus","",2018-10-22 13:18:59
+"38","The majority of restore processes have completed. We anticipate all data stores will be fully consistent within the next hour.","785764172","githubstatus","",2018-10-22 11:56:53
+"39","We continue to monitor restores which are taking longer than anticipated. We estimate they will be caught up in an hour and a half.","785764172","githubstatus","",2018-10-22 09:47:03
+"40","Our restore operations are still on track to serve consistent data within the hour. We've posted an update at ","785764172","githubstatus","",2018-10-22 08:27:04
+"41","Our restore operations are still on track to serve consistent data within the hou... See more at ","785764172","githubstatus","",2018-10-22 08:19:01
+"42","Our restore operations are proceeding as expected, on track for serving fully consistent data within the next 1.5 hours.","785764172","githubstatus","",2018-10-22 07:35:38
+"43","We are currently in the later stages of a restore operation, with the aim of serving fully consistent data within the next 2 hours.","785764172","githubstatus","",2018-10-22 06:51:50
+"44","We are continuing work to repair a data storage system for ","785764172","githubstatus","",2018-10-22 04:12:56
+"45","We continue working to repair a data storage system for ","785764172","githubstatus","",2018-10-22 03:28:17
+"46","We continue to repair a data storage system for ","785764172","githubstatus","",2018-10-22 02:42:28
+"47","We are continuing to repair a data storage system for ","785764172","githubstatus","",2018-10-22 02:23:48
+"48","We continue work to repair a data storage system for ","785764172","githubstatus","",2018-10-22 02:01:44
+"49","We are continuing to work to migrate a data storage system in order to restore access to ","785764172","githubstatus","",2018-10-22 01:41:19
+"50","We continue to work to migrate a data storage system in order to restore access to ","785764172","githubstatus","",2018-10-22 01:22:22
+"51","We continue to migrate a data storage system in order to restore full access to ","785764172","githubstatus","",2018-10-22 01:02:49
+"52","We continue to work on migrating a data storage system in order to restore access to ","785764172","githubstatus","",2018-10-22 00:43:12
+"53","We're continuing to work on migrating a data storage system in order to restore access to ","785764172","githubstatus","",2018-10-22 00:23:54
+"54","We're failing over a data storage system in order to restore access to ","785764172","githubstatus","",2018-10-22 00:05:37
+"55","We're investigating problems accessing ","785764172","githubstatus","",2018-10-21 23:43:55
+"56","We are investigating reports of service unavailability.","785764172","githubstatus","",2018-10-21 23:13:31
+"57","We are investigating reports of elevated error rates.","785764172","githubstatus","",2018-10-21 23:09:19
+"58","Everything operating normally.","785764172","githubstatus","",2018-10-08 22:39:11
+"59","We've identified the source of the API errors and are monitoring as the site recovers.","785764172","githubstatus","",2018-10-08 22:27:13
+"60","We're experiencing elevated error rates for API requests.","785764172","githubstatus","",2018-10-08 21:52:46
+"61","Everything operating normally.","785764172","githubstatus","",2018-09-26 22:51:20
+"62","We are investigating reports of elevated error rates.","785764172","githubstatus","",2018-09-26 22:36:15
+"63","Everything operating normally.","785764172","githubstatus","",2018-09-25 19:59:46
+"64","We're experiencing elevated rates of exceptions for user dashboards.","785764172","githubstatus","",2018-09-25 19:55:54
+"65","We are investigating reports of elevated error rates.","785764172","githubstatus","",2018-09-25 19:47:50
+"66","Everything operating normally.","785764172","githubstatus","",2018-09-21 01:03:36
+"67","We've identified the source of a connectivity issue to GitHub and are monitoring as the site recovers.","785764172","githubstatus","",2018-09-21 00:34:17
+"68","We are investigating reports of elevated error rates.","785764172","githubstatus","",2018-09-21 00:27:20
+"69","Everything operating normally.","785764172","githubstatus","",2018-09-17 08:13:53
+"70","We are investigating reports of elevated error rates.","785764172","githubstatus","",2018-09-17 07:50:19
+"71","Everything is operating normally.","785764172","githubstatus","",2018-09-11 19:08:39
+"72","We've addressed the source of connectivity issues and are continuing to monitor as the site recovers.","785764172","githubstatus","",2018-09-11 18:18:41
+"73","We're continuing to address an issue that affects connectivity to ","785764172","githubstatus","",2018-09-11 16:31:59
+"74","We've identified the source of the exceptions and are working to address the problem.","785764172","githubstatus","",2018-09-11 14:20:03
+"75","We are investigating a small portion of our users unable to access the site.","785764172","githubstatus","",2018-09-11 12:48:15
+"76","Everything operating normally.","785764172","githubstatus","",2018-09-11 10:09:42
+"77","We are investigating reports of elevated error rates.","785764172","githubstatus","",2018-09-11 09:47:23
+"78","Everything operating normally.","785764172","githubstatus","",2018-08-31 04:59:54
+"79","We've deployed a fix for exceptions and are continuing to monitor as the site recovers.","785764172","githubstatus","",2018-08-31 04:53:43
+"80","We've identified the cause of exceptions and are deploying a fix.","785764172","githubstatus","",2018-08-31 04:47:33
+"81","We are investigating reports of service unavailability.","785764172","githubstatus","",2018-08-31 04:42:14
+"82","We are investigating reports of elevated error rates.","785764172","githubstatus","",2018-08-31 04:40:19
+"83","Everything operating normally.","785764172","githubstatus","",2018-08-28 17:27:19
+"84","We identified the cause of background processing issues, and are monitoring recovery. Further delays are possible as we process the backlog.","785764172","githubstatus","",2018-08-28 16:31:16
+"85","We continue to investigate issues with background jobs. Users may notice delayed updates, notifications, and Pages builds.","785764172","githubstatus","",2018-08-28 15:55:40
+"86","We are investigating an issue processing background jobs. Users may notice delayed updates and notifications.","785764172","githubstatus","",2018-08-28 15:12:27
+"87","We are investigating reports of elevated error rates.","785764172","githubstatus","",2018-08-28 15:06:32
+"88","Everything operating normally.","785764172","githubstatus","",2018-08-28 00:25:58
+"89","We are investigating reports of elevated error rates.","785764172","githubstatus","",2018-08-28 00:17:09
+"90","Everything operating normally.","785764172","githubstatus","",2018-08-17 06:29:26
+"91","Repository archive download error rates have subsided. We continue to mitigate overall impact and monitor for problems.","785764172","githubstatus","",2018-08-17 05:24:12
+"92","Error rates associated with repository archive downloads are subsiding. We continue to mitigate overall impact and monitor for problems.","785764172","githubstatus","",2018-08-17 03:40:11
+"93","We're currently experiencing elevated failure rates downloading repository archives.","785764172","githubstatus","",2018-08-17 02:48:32
+"94","We are investigating reports of elevated error rates.","785764172","githubstatus","",2018-08-17 02:15:24
+"95","Everything operating normally.","785764172","githubstatus","",2018-08-09 16:30:23
+"96","We've addressed the source of exceptions in the API. We're continuing to monitor as the site recovers.","785764172","githubstatus","",2018-08-09 16:24:38
+"97","We are continuing to investigate increased error rates with our API.","785764172","githubstatus","",2018-08-09 15:48:54
+"98","We're investigating increased error rates with our API.","785764172","githubstatus","",2018-08-09 15:29:06
+"99","We finished the maintenance to our status page.","785764172","githubstatus","",2018-08-09 11:32:58
+"100","Our status page is currently undergoing maintenance.","785764172","githubstatus","",2018-08-09 10:17:03
+"101","Everything operating normally.","785764172","githubstatus","",2018-08-09 02:53:04
+"102","We are investigating reports of elevated error rates.","785764172","githubstatus","",2018-08-09 02:21:14
+"103","Everything operating normally.","785764172","githubstatus","",2018-08-06 21:42:38
+"104","We've identified the source of elevated error rates and have deployed a fix. We're continuing to monitor as the site recovers.","785764172","githubstatus","",2018-08-06 21:32:16
+"105","We are investigating reports of elevated error rates.","785764172","githubstatus","",2018-08-06 21:27:30
+"106","Everything operating normally.","785764172","githubstatus","",2018-08-03 15:08:48
+"107","We've resolved an issue that was causing notifications to be delayed. Further delays are possible as we process queued notifications.","785764172","githubstatus","",2018-08-03 13:50:42
+"108","Everything operating normally.","785764172","githubstatus","",2018-08-01 16:18:55
+"109","We are investigating reports of elevated error rates.","785764172","githubstatus","",2018-08-01 15:55:09
+"110","We are investigating reports of service unavailability.","785764172","githubstatus","",2018-08-01 15:48:25
+"111","Everything operating normally.","785764172","githubstatus","",2018-07-30 17:25:23
+"112","We are investigating reports of elevated error rates.","785764172","githubstatus","",2018-07-30 17:18:05
+"113","Everything operating normally.","785764172","githubstatus","",2018-07-20 09:55:21
+"114","We are investigating reports of elevated error rates.","785764172","githubstatus","",2018-07-20 09:42:51
+"115","Everything operating normally.","785764172","githubstatus","",2018-07-17 21:55:52
+"116","Error rates have returned to normal after failing over a data service. We are continuing to monitor.","785764172","githubstatus","",2018-07-17 21:50:14
+"117","We are investigating reports of elevated error rates.","785764172","githubstatus","",2018-07-17 21:39:40
+"118","All systems operational. Some users may not see audit logs, Pages builds, or webh... See more at ","785764172","githubstatus","",2018-07-16 23:10:18
+"119","All systems are stable. We are continuing recovery efforts.","785764172","githubstatus","",2018-07-16 21:14:20
+"120","The site is stable. We are continuing to monitor and work through follow-up remediation efforts.","785764172","githubstatus","",2018-07-16 18:54:22
+"121","We're continuing to monitor and work on further remediation efforts as the site recovers.","785764172","githubstatus","",2018-07-16 18:37:26
+"122","We're monitoring the site as systems recover. Some delays are expected as we process backlogged data.","785764172","githubstatus","",2018-07-16 18:26:48
+"123","We've discovered the issue causing connectivity failures and are remediating.","785764172","githubstatus","",2018-07-16 18:04:38
+"124","We are investigating reports of service unavailability.","785764172","githubstatus","",2018-07-16 17:34:28
+"125","We are investigating reports of elevated error rates.","785764172","githubstatus","",2018-07-16 17:32:53
+"126","Everything operating normally.","785764172","githubstatus","",2018-07-15 13:19:45
+"127","We're investigating Pull Request diff load failures.","785764172","githubstatus","",2018-07-15 12:39:05
+"128","Everything operating normally.","785764172","githubstatus","",2018-07-10 08:36:07
+"129","We're investigating reports of connection failures.","785764172","githubstatus","",2018-07-10 07:52:50
+"130","Everything operating normally.","785764172","githubstatus","",2018-07-05 07:10:21
+"131","We're investigating reports of intermittent connection failures.","785764172","githubstatus","",2018-07-05 06:18:30
+"132","Everything operating normally.","785764172","githubstatus","",2018-06-11 16:50:02
+"133","We're experiencing a small increase in exception rate and are investigating.","785764172","githubstatus","",2018-06-11 16:40:46
+"134","We're currently investigating increased error rates on ","785764172","githubstatus","",2018-06-11 16:12:06
+"135","Everything operating normally.","785764172","githubstatus","",2018-06-06 10:52:17
+"136","We are investigating reports of elevated error rates.","785764172","githubstatus","",2018-06-06 10:47:23
+"137","Everything operating normally.","785764172","githubstatus","",2018-05-29 18:55:49
+"138","Users may experience delay in timeline updates and searches.","785764172","githubstatus","",2018-05-29 17:20:27
+"139","We are investigating reports of elevated error rates.","785764172","githubstatus","",2018-05-29 16:27:35
+"140","Everything operating normally.","785764172","githubstatus","",2018-05-25 17:44:29
+"141","We're investigating reports of issues loading GitHub Pages sites.","785764172","githubstatus","",2018-05-25 17:27:35
+"142","Everything operating normally.","785764172","githubstatus","",2018-05-23 03:29:05
+"143","We are investigating reports of elevated error rates.","785764172","githubstatus","",2018-05-23 02:41:35
+"144","Everything operating normally.","785764172","githubstatus","",2018-04-27 17:35:13
+"145","Notification delivery times are back to normal. Updates to user timelines are currently delayed.","785764172","githubstatus","",2018-04-27 16:50:28
+"146","We are currently investigating a delay in notification delivery.","785764172","githubstatus","",2018-04-27 16:23:56
+"147","Everything operating normally.","785764172","githubstatus","",2018-04-23 17:34:05
+"148","We've identified the cause of the dashboard timeouts and a fix is being rolled out.","785764172","githubstatus","",2018-04-23 17:20:25
+"149","We're experiencing elevated error rates for user dashboards and are investigating.","785764172","githubstatus","",2018-04-23 17:02:12
+"150","Everything operating normally.","785764172","githubstatus","",2018-03-23 19:20:40
+"151","We're aware of a regression in certain REST APIv3 Endpoints that have caused inco... See more at ","785764172","githubstatus","",2018-03-23 19:02:28
+"152","Everything operating normally.","785764172","githubstatus","",2018-03-12 17:31:47
+"153","We're investigating delays and increased error rates for GitHub Pages builds.","785764172","githubstatus","",2018-03-12 17:11:40
+"154","Everything operating normally.","785764172","githubstatus","",2018-03-08 03:53:40
+"155","We are continuing to monitor timeline delays.","785764172","githubstatus","",2018-03-08 01:28:39
+"156","We are continuing to monitor the recovery of timeline delays.","785764172","githubstatus","",2018-03-08 00:45:26
+"157","We are investigating page timeouts and delays to user timeline updates.","785764172","githubstatus","",2018-03-08 00:08:24
+"158","We are investigating reports of elevated error rates.","785764172","githubstatus","",2018-03-07 23:38:28
+"159","Everything operating normally.","785764172","githubstatus","",2018-03-07 15:36:21
+"160","We are investigating delays in email delivery.","785764172","githubstatus","",2018-03-07 14:35:36
+"161","All is well.","785764172","githubstatus","",2018-03-02 19:05:49
+"162","Repo dependency discovery and Pulse are currently degraded.","785764172","githubstatus","",2018-03-02 17:41:09
+"163","We are investigating reports of elevated error rates.","785764172","githubstatus","",2018-03-02 16:22:46
+"164","Everything operating normally.","785764172","githubstatus","",2018-03-02 16:02:50
+"165","We're experiencing elevated error rates for some GitHub functionality and are investigating.","785764172","githubstatus","",2018-03-02 15:19:52
+"166","Everything operating normally.","785764172","githubstatus","",2018-02-28 18:42:41
+"167","We've identified the source of connectivity issues to ","785764172","githubstatus","",2018-02-28 18:02:49
+"168","We are investigating reports of elevated error rates.","785764172","githubstatus","",2018-02-28 17:36:26
+"169","We've turned off TLS v1.0 and v1.1 for the next hour as we move toward permanently disabling them. Check out ","785764172","githubstatus","",2018-02-08 19:00:13
+"170","Everything operating normally.","785764172","githubstatus","",2018-02-02 19:17:37
+"171","Email delivery is running behind, you may see delays in receiving notifications.","785764172","githubstatus","",2018-02-02 18:49:59
+"172","Everything operating normally.","785764172","githubstatus","",2018-01-22 18:36:22
+"173","Updates to user timeline are currently delayed, recent activity may be missing.","785764172","githubstatus","",2018-01-22 17:56:46
+"174","Everything operating normally.","785764172","githubstatus","",2018-01-12 21:24:08
+"175","The backlog of notifications is being worked through. We will post the next update once all notifications have been delivered.","785764172","githubstatus","",2018-01-12 20:37:46
+"176","Notification delivery and updates are running behind. You may see delays in email and web notifications as well as unsubscribes.","785764172","githubstatus","",2018-01-12 19:51:29
+"177","We are investigating reports of elevated error rates.","785764172","githubstatus","",2018-01-12 19:45:15
+"178","Everything operating normally.","785764172","githubstatus","",2018-01-11 15:43:34
+"179","We've addressed the source of the exceptions and are continuing to monitor as the site recovers.","785764172","githubstatus","",2018-01-11 15:39:33
+"180","We are investigating reports of elevated error rates.","785764172","githubstatus","",2018-01-11 15:38:22
+"181","We are investigating reports of service unavailability.","785764172","githubstatus","",2018-01-11 15:20:37
+"182","Everything operating normally.","785764172","githubstatus","",2018-01-10 10:20:22
+"183","We are investigating reports of service unavailability.","785764172","githubstatus","",2018-01-10 10:14:17
+"184","We are investigating reports of elevated error rates.","785764172","githubstatus","",2018-01-10 10:08:45
+"185","Everything operating normally.","785764172","githubstatus","",2017-11-28 00:03:48
+"186","We are investigating reports of elevated error rates.","785764172","githubstatus","",2017-11-27 23:57:53
+"187","Everything operating normally.","785764172","githubstatus","",2017-11-08 19:04:12
+"188","We're currently experiencing elevated error rates on ","785764172","githubstatus","",2017-11-08 18:31:25
+"189","Everything operating normally.","785764172","githubstatus","",2017-11-03 05:40:31
+"190","We're investigating increased error rates for GitHub Pages builds.","785764172","githubstatus","",2017-11-03 05:14:12
+"191","Everything operating normally.","785764172","githubstatus","",2017-10-20 23:22:49
+"192","We are investigating reports of elevated error rates.","785764172","githubstatus","",2017-10-20 23:20:02
+"193","Everything operating normally.","785764172","githubstatus","",2017-10-17 18:21:51
+"194","We continue to monitor recovery of the queue backlog.","785764172","githubstatus","",2017-10-17 16:54:41
+"195","The queue backlog is now recovering. Notifications will be slow until the queues are fully recovered.","785764172","githubstatus","",2017-10-17 16:12:24
+"196","We continue to investigate queue backlogs. Webhook deliveries are delayed and commits may take longer than usual to appear in pull requests.","785764172","githubstatus","",2017-10-17 16:00:13
+"197","We continue to investigate a large queue backlog. Commits will take longer than usual to appear in pull requests.","785764172","githubstatus","",2017-10-17 15:27:50
+"198","We continue to investigate a queue backlog. You may experience that commits take longer than usual to appear in pull requests.","785764172","githubstatus","",2017-10-17 14:46:03
+"199","We are investigating a queue backup. You may experience that commits take longer than usual to appear in pull requests.","785764172","githubstatus","",2017-10-17 14:23:22
+"200","We are investigating reports of elevated error rates.","785764172","githubstatus","",2017-10-17 14:12:39
