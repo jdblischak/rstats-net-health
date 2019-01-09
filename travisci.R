@@ -17,7 +17,7 @@ get_status_travisci <- function(text) {
     return("success")
   } else if (text == "Monitoring") {
     return("warning")
-  } else if (text == "Investigating") {
+  } else if (text == "Investigating" & text == "Identified") {
     return("danger")
   } else {
     return(NA_character_)
