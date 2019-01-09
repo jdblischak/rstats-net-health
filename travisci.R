@@ -13,11 +13,11 @@ get_tweet_travisci <- function() {
 # Analyze text from @traviscistatus account to determine status
 get_status_travisci <- function(text) {
   stopifnot(is.character(text), length(text) == 1)
-  if (___) {
+  if (text == "Resolved") {
     return("success")
-  } else if (___) {
+  } else if (text == "Monitoring") {
     return("warning")
-  } else if (___) {
+  } else if (text == "Investigating") {
     return("danger")
   } else {
     return(NA_character_)
