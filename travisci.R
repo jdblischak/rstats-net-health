@@ -13,7 +13,7 @@ get_tweet_travisci <- function() {
 # Analyze text from @traviscistatus account to determine status
 get_status_travisci <- function(text) {
   stopifnot(is.character(text), length(text) == 1)
-  if (___) {
+  if (__) {
     return("success")
   } else if (___) {
     return("warning")
