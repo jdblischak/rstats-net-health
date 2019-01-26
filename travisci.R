@@ -9,15 +9,16 @@ get_tweet_travisci <- function() {
   text <- tweet[, "text"]
   return(text)
 }
-
 # Analyze text from @traviscistatus account to determine status
 get_status_travisci <- function(text) {
   stopifnot(is.character(text), length(text) == 1)
-  if (text == "Resolved") {
+  if (grepl("Resolved", text)) {
     return("success")
-  } else if (text == "Monitoring") {
+  } else if (grepl("Monitoring", text)) {
     return("warning")
-  } else if (text == "Investigating" & text == "Identified") {
+  } else if (grepl("Investigating", text)) {
+    return("danger")
+  } else if (grepl("Identified", text)) {
     return("danger")
   } else {
     return(NA_character_)
@@ -25,6 +26,7 @@ get_status_travisci <- function(text) {
 }
 
 # Tests ------------------------------------------------------------------------
+
 
 # Using actual tweets (see New_twitter_data/travis_status.csv)
 
@@ -51,3 +53,14 @@ identical(get_status_travisci("[status] Identified: The issue has been identifie
 # Unclear -> NA_character_
 identical(get_status_travisci("non standard message"), NA_character_)
 identical(get_status_travisci("unclear what the status is"), NA_character_)
+
+
+
+
+
+
+
+
+
+
+
