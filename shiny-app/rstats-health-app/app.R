@@ -9,6 +9,7 @@
 
 library(shiny)
 library(shinydashboard)
+git_list <- c("Github", "Travis CI", "Bit Bucket", "Gitlab", "AppVeyor")
 # Define UI for application that draws a histogram
 ui <-  dashboardPage(
   dashboardHeader(title = "Rstats net Health",
@@ -35,18 +36,15 @@ ui <-  dashboardPage(
                                )),
   
   dashboardSidebar(   
-    selectInput("git-control", "Git Version Control:", 
-                                  c("Github" = "githubstatus",
-                                    "Bitbucket" = "bit",
-                                    "Travis" = "traviscistatus",
-                                    "Gitlab" = "gitlabstatus",
-                                    "AppVeyor" = "appveyorstatus"))
+    checkboxGroupInput("git-control","Git Version Control:",git_list)
+  
   ),
   dashboardBody()
   
 )
 # Define server logic required to draw a histogram
 server <- function(input, output){
+ 
   
 }
 
